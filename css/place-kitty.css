@@ -18,7 +18,7 @@
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
 
-  img['images/kitty-4.png'] {
+  img[src = ] {
   position: absolute;
   z-index: 5;
   top: 291px;
